@@ -1,0 +1,159 @@
+
+
+
+- title: "**[HOST'19]** [Leveraging Cache Management Hardware for Practical Defense against Cache Timing Channel Attacks](http://www.google.com)"
+  image: STS_news.png
+  venue: In IEEE Micro, 2019.
+  authors: Fan Yao, Hongyu Fang, Milos Doroslovacki and Guru Venkataramani
+  link:
+    url1: 
+    display1:
+    url2: 
+    display2:
+  news2:
+
+
+- title: "**[HPDC'19]** [XBFS: eXploring Runtime Optimizations for Breadth-First Search on GPUs](http://www.google.com)"
+  image: STS_news.png
+  venue: In the 28th International Symposium on High-Performance Parallel and Distributed Computing, 2019, Phoenix, Arizona
+  authors: Anil Gaihre, Zhenlin Wu, Fan Yao and Hang Liu
+  link:
+    url1: 
+    display1: 
+    url2: 
+    display2: 
+  news2:
+
+- title: "**[HOST'19]** [COTSknight: Practical Defense against Cache Timing Channel Attacks using Cache Monitoring and Partitioning Technologies](http://www.google.com)"
+  image: STS_news.png
+  venue: In IEEE International Symposium on Hardware Oriented Security and Trust 2019
+  authors: Fan Yao, Hongyu Fang, Milos Doroslovacki and Guru Venkataramani
+  link:
+    url1: http://fan-yao.com/paper/2019_cotsknight.pdf
+    display1: '[PDF]'
+    url2: https://www.youtube.com/watch?v=HEm7g3BTSl4&feature=youtu.be
+    display2: '[Short-video]'
+  news2:
+
+- title: "**[IJPP'18]** [Covert Timing Channels Exploiting Cache Coherence Hardware: Characterization and Defense](http://www.google.com)"
+  image: STS_news.png
+  venue: Springer International Journal on Parallel Programming- Special Issue on Special Issue Side-channel and fault analysis 
+  authors: Fan Yao, Milos Doroslovacki, Guru Venkataramani
+  link:
+    url1: 
+    display1:
+    url2: 
+    display2:
+  news2:
+
+- title: "**[IJPP'18]** [PrODACT: Prefetch-Obfuscator to Defend Against Cache Timing Channels](http://www.google.com)"
+  image: STS_news.png
+  venue: Springer International Journal on Parallel Programming- Special Issue on Side Channel and Fault Analysis (IJPP'2018)
+  authors: Hongyu Fang, Sai Santosh Dayapule, Fan Yao, Milos Doroslovacki, Guru Venkataramani
+  link:
+    url1: 
+    display1:
+    url2: 
+    display2:
+  news2:
+
+- title: "**[HASP'18]** [WiP: Towards a Stronger Indicator for Detecting Cache Timing Channel](http://www.google.com)"
+  image: STS_news.png
+  venue: In Annual Workshop on Hardware and Architectural Support for Security and Privacy held in conjunction with ISCA 2018, Los Angeles, California 
+  authors: Fan Yao, Hongyu Fang, Milos Doroslovacki and Guru Venkataramani
+  link:
+    url1: 
+    display1:
+    url2: 
+    display2:
+  news2:
+
+- title: "**[HPCA'18]** [Are Coherence Protocol States vulnerable to Information Leakage?](http://www.google.com)"
+  image: STS_news.png
+  venue: In the 24th IEEE International Symposium on High-Performance Computer Architecture, February, 2018, Vienna, Austria 
+  authors: Fan Yao, Milos Doroslovacki and Guru Venkataramani
+  link:
+    url1: http://fan-yao.com/paper/2018_HPCA_caco.pdf
+    display1: '[PDF]'
+    url2: https://www.youtube.com/watch?v=NQQ0zC1G7p0
+    display2: '[Short-video]'
+  news2:
+
+
+- title: "**[IEEE'18]** [A Noise-resilient Detection Method against Advanced Cache Timing Channel Attacks](http://www.google.com)"
+  image: STS_news.png
+  venue: Asilomar Conference on Signals, Systems and Computers, IEEE Signal Processing Society, 2018.
+  authors: Hongyu Fang, Sai Santosh Dayapule, Fan Yao, Milos Doroslovacki, Guru Venkataramani
+  link:
+    url1: 
+    display1:
+    url2: 
+    display2:
+  news2:
+
+
+- title: "**[IEEE TGCN'18]** [TS-BatPro: Improving Energy Efficiency in Data Centers by Leveraging Temporal-spatial Batching](http://www.google.com)"
+  image: STS_news.png
+  venue: In IEEE Transactions on Green Communications and Networking
+  authors: Fan Yao, Jingxin Wu, Guru Venkataramani and Suresh Subramaniam
+  link:
+    url1: 
+    display1: 
+    url2: 
+    display2: 
+  news2:
+
+- title: "**[ICCCN'18]** [PopCorns: Power Optimization using a Cooperative Network-Server approach for Data Centers](http://www.google.com)"
+  image: STS_news.png
+  venue: In the Proceedings of 27th International Conference on Computer Communications and Networks, Hangzhou, China
+  authors: Bingqian Lu, Sai Santosh Dayapule, Fan Yao, Jingxin Wu, Guru Venkataramani, Suresh Subramaniam
+  link:
+    url1: http://fan-yao.com/paper/2018_ICCCN_popcorns.pdf
+    display1: '[PDF]'
+    url2: 
+    display2:
+  news2:
+
+- title: "**[HOST'18]** [Prefetch-guard: Leveraging Hardware Prefetchers to Defend against Cache Timing Channels (short paper)](http://www.google.com)"
+  image: STS_news.png
+  venue: In IEEE International Symposium on Hardware Oriented Security and Trust, April, 2018, Washington, DC
+  authors: Hongyu Fang, Sai Santosh Dayapule, Fan Yao, Milos Doroslovacki and Guru Venkataramani
+  link:
+    url1: http://fan-yao.com/paper/2018_HOST_prefetchguard.pdf
+    display1: '[PDF]'
+    url2: 
+    display2:
+  news2:
+
+- title: "**[DSN'17]** [StatSym: Vulnerable Path Discovery through Statistics-guided Symbolic Execution](http://www.google.com)"
+  image: STS_news.pngFan Yao, Yongbo Li, Yurong Chen, Hongfa Xue, Tian Lan and Guru Venkataramani
+  venue: In the Proceedings of 47th IEEE/IFIP International Conference on Dependable Systems and Networks, 2017, Denver, CO (accepted 49 out of 220 submissions)
+  authors: Fan Yao, Yongbo Li, Yurong Chen, Hongfa Xue, Tian Lan and Guru Venkataramani
+  link:
+    url1: http://fan-yao.com/paper/2017_DSN_StatSym.pdf
+    display1: '[PDF]'
+    url2: http://fan-yao.com/statsym-demo.html
+    display2: '[DEMO]'
+  news2:
+
+- title: "**[GLSVLSI'17]** [Covert Timing Channels Exploiting Non-Uniform Memory Access based Architectures](http://www.google.com)"
+  image: STS_news.png
+  venue: In the Proceedings of 27th edition of the ACM Great Lakes Symposium on VLSI, 2017, Banff, Canada. (accepted 48 out of 197 submissions)
+  authors: Fan Yao, Guru Venkataramani and Milos Doroslovacki
+  link:
+    url1: http://fan-yao.com/paper/2017_GLSVLSI_cc.pdf
+    display1: '[PDF]'
+    url2: 
+    display2:
+  news2:
+
+- title: "**[GLOBECOM'17]** [TS-Bat: Leveraging temporal-spatial batching for data center energy optimization](http://www.google.com)"
+  image: STS_news.png
+  venue: In the 24th IEEE International Symposium on High-Performance Computer Architecture, February, 2018, Vienna, Austria 
+  authors: Fan Yao, Jingxin Wu, Guru Venkataramani and Suresh Subramaniam
+  link:
+    url1: http://fan-yao.com/paper/2017_GLOBECOM_tsbat.pdf
+    display1: '[PDF]'
+    url2: 
+    display2:
+  news2:
